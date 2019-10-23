@@ -31,13 +31,14 @@ It follows the template
   | otherwise = <return value>
 ```
 
-Using _only_ the following builtin functionality
+Using _only_ the following built-in functionality
 
-- arithmetic, comparison, and boolean operators
+- arithmetic, comparison, and Boolean operators
+- arithmetic and Boolean constants
 - `pred` and `succ` functions
 - `head` and `tail` functions
 - `++` for list concatenation, e.g. `lst1 ++ lst2`
-- `:` to insert an element as the head of a list, e.g. `e:lst`
+- `:` to prepend an element to a list, e.g. `e:lst`
 - any functions you have already defined
 
 we will implement our versions of the following functions that operate on lists in the given order: `null`, `length`, `reverse`, `take`, `drop`, `maximum`, `minimum`, `sum`, `product`, `elem`, `cycle`, `repeat`, `replicate`, `zip`.
