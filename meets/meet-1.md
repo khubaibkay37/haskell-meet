@@ -10,7 +10,7 @@ From [Learn You a Haskell](http://learnyouahaskell.com):
 ## Moderation Plan by Emad bin Abid
 
 
-## Problems
+## Problems - 60 minutes
 
 Following is a syntax for functions in Haskell.
 ```
@@ -33,10 +33,9 @@ It follows the template
 
 Using _only_ the following built-in functionality
 
-- arithmetic, comparison, and Boolean operators
-- arithmetic and Boolean constants
+- constans, operators, and functins related to arithmetic, comparisons, and Booleans
 - `pred` and `succ` functions
-- `head` and `tail` functions
+- `head`, `tail`, `init`, and `last` functions
 - `++` for list concatenation, e.g. `lst1 ++ lst2`
 - `:` to prepend an element to a list, e.g. `e:lst`
 - any functions you have already defined
@@ -52,3 +51,8 @@ The estimated time required to implement these functions is as follows.
 - 2 minutes: `myelem`
 - 5 minutes: `mycycle`, `myrepeat`, `myreplicate`
 - 3 minutes: `myzip`.
+
+Also implement the following functions:
+
+- 5 minutes: `dectobinary n` which returns the binary representation of the decimal number `n` as a string.
+- 10 minutes: `fibonacci n` which returns a list of the first `n` Fibonacci numbers. You may need to implement a helper function.
