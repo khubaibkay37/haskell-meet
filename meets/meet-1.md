@@ -9,6 +9,21 @@ From [Learn You a Haskell](http://learnyouahaskell.com):
 
 ## Moderation Plan by Emad bin Abid
 
+- What is Haskell?
+- Installation
+- Explore GHCI
+- Basic syntax
+    - Function
+    - If Then Else
+    - List
+        - head, tail, last, init, length, null, reverse, take, drop, maximum, minimum, sum, product, elem
+        - Range
+            - cycle, repeat, replicate
+    - List comprehension
+    - Tuple
+        - fst
+        - snd
+        - zip
 
 ## Problems - 60 minutes
 
