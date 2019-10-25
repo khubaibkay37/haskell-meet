@@ -9,7 +9,18 @@ From [Learn You a Haskell](http://learnyouahaskell.com):
 
 ## Moderation Plan by Emad bin Abid
 
+- Functional programming vs. Imperative programming
+    - A style of building the structure and elements of computer programs — that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data
+- Mutable data and state change
+- Pure functions, referential transparency
+- Type inference
 - What is Haskell?
+    - Functional programming language
+    - Lazy evaluation: Function overriding? Late binding? Dependency injection?
+    - Lazy evaluation: It is a method to evaluate a Haskell program. It means that expressions are not evaluated when they are bound to variables, but their evaluation is deferred until their results are needed by other computations. In consequence, arguments are not evaluated before they are passed to a function, but only when their values are actually used.
+    - Statically typed
+    - Function names can not begin with capital letters
+
 - Installation
 - Explore GHCI
 - Basic syntax
