@@ -13,4 +13,5 @@ From [Learn You a Haskell](http://learnyouahaskell.com):
 
 - Add type signatures to all the functions from meet-1. Use your own solutions or the ones in the repository.
 - Add appropriate errors messahes to the problems from meet-1.
+- Rewrite the problems using pattern matching where approriate.
 - Problems 1 to 10 from [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
