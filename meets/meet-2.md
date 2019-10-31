@@ -8,6 +8,7 @@ From [Learn You a Haskell](http://learnyouahaskell.com):
 - [Syntax in Functions](http://learnyouahaskell.com/syntax-in-functions)
 
 ## Moderation Plan by Khubaib Naeem Kasbati
+//add stuff
 
 ## Problems - 60 minutes
 
